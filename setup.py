@@ -18,7 +18,7 @@ setup(
     author='Hackathon',
     author_email='kimi.huang@brightcells.com',
 
-    packages=['djshell'],
+    packages=['django_shell'],
     py_modules=[],
     install_requires=[],
 

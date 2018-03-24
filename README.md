@@ -8,7 +8,7 @@ pip install django-shell
 
 ## Usage
 ```python
-from djshell import reset_pwd
+from django_shell import reset_pwd
 # def reset_pwd(password='1q2w3e4r5t6y7u8i9o0p', username='admin')
 reset_pwd()
 reset_pwd('1q2w3e4r5t6y7u8i9o0p')
